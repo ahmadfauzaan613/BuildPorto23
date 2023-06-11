@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d72977ec.css",
+    "main.js": "/static/js/main.e998191e.js",
+    "static/js/787.c4cb65b9.chunk.js": "/static/js/787.c4cb65b9.chunk.js",
+    "static/media/Portofolio Front End - PDF.pdf": "/static/media/Portofolio Front End - PDF.9545883f0640b9d5d065.pdf",
+    "static/media/image2.png": "/static/media/image2.ee278a11e71006032d80.png",
+    "static/media/image1.png": "/static/media/image1.cca2d264e1273df9fd61.png",
+    "static/media/cvi.png": "/static/media/cvi.cd36aaf9b7712350e159.png",
+    "static/media/serti1.jpg": "/static/media/serti1.9aae03ad54db9856d946.jpg",
+    "static/media/tile2.png": "/static/media/tile2.0518b22afc8bd423dd76.png",
+    "static/media/serti2.jpg": "/static/media/serti2.5dc6d957505e23e64696.jpg",
+    "static/media/webBadhi2.png": "/static/media/webBadhi2.fe4bc372f282e9faa075.png",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.6170bacefd8a1f69ca74.png",
+    "static/media/serti3.jpg": "/static/media/serti3.530ec21c9c31a25a9bc4.jpg",
+    "static/media/dli2.png": "/static/media/dli2.361a40cdd54a66ce1bea.png",
+    "static/media/dun.png": "/static/media/dun.835afca81656684d43c3.png",
+    "static/media/web1.JPG": "/static/media/web1.c7a986413b7e20ffef59.JPG",
+    "static/media/figma.png": "/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/tailwind-css.1024x615.png": "/static/media/tailwind-css.1024x615.d2054f82828b046525b9.png",
+    "static/media/Ahmad Fauzan-resume.pdf": "/static/media/Ahmad Fauzan-resume.b35bcdb107e8d826378e.pdf",
+    "static/media/top.png": "/static/media/top.c98cc8b84123f5f1995d.png",
+    "static/media/night.png": "/static/media/night.042697b0e28fe2b6520c.png",
+    "static/media/pngegg.png": "/static/media/pngegg.7993b04a25ce5393ad89.png",
+    "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/codeigniter_3.png": "/static/media/codeigniter_3.0988afd6c6091fbf6447.png",
+    "index.html": "/index.html",
+    "main.d72977ec.css.map": "/static/css/main.d72977ec.css.map",
+    "main.e998191e.js.map": "/static/js/main.e998191e.js.map",
+    "787.c4cb65b9.chunk.js.map": "/static/js/787.c4cb65b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72977ec.css",
+    "static/js/main.e998191e.js"
+  ]
+}
